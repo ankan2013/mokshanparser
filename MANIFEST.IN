@@ -1,0 +1,4 @@
+include mokshanparser/analyzer/bad_analyses.txt
+include mokshanparser/analyzer/paradigms.txt
+include mokshanparser/analyzer/lexemes.txt
+include mokshanparser/analyzer/lex_rules.txt
